@@ -20,19 +20,16 @@ namespace objednavac
 	/// </summary>
 	public partial class LoginPage:Page
 	{
-		MainWindow mainWindow;
 
-		public LoginPage(MainWindow mainWindow)
+		public LoginPage()
 		{
 			InitializeComponent();
 
-			this.mainWindow = mainWindow;
 		}
 
 		private void button_Click(object sender, RoutedEventArgs e)
 		{
-			var nav = NavigationService.GetNavigationService(this);
-			nav.Navigate(mainWindow);
+
 		}
 	}
 }

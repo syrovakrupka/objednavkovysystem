@@ -31,8 +31,8 @@ namespace objednavac
 
 		private void MainWindow_Loaded(object sender, RoutedEventArgs e)
 		{
-			var navigation = NavigationService.GetNavigationService(this);
-			navigation.Navigate(new LoginPage(this));
+			//var navigation = NavigationService.GetNavigationService(this);
+			//navigation.Navigate(new LoginPage(this));
 
 		}
 	}
