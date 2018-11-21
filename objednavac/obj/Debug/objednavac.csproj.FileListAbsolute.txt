@@ -1,0 +1,17 @@
+D:\visual studio\objednavac\objednavac\bin\Debug\objednavac.exe.config
+D:\visual studio\objednavac\objednavac\bin\Debug\objednavac.exe
+D:\visual studio\objednavac\objednavac\bin\Debug\objednavac.pdb
+D:\visual studio\objednavac\objednavac\obj\Debug\objednavac.csprojResolveAssemblyReference.cache
+D:\visual studio\objednavac\objednavac\obj\Debug\MainWindow.g.cs
+D:\visual studio\objednavac\objednavac\obj\Debug\App.g.cs
+D:\visual studio\objednavac\objednavac\obj\Debug\objednavac_MarkupCompile.cache
+D:\visual studio\objednavac\objednavac\obj\Debug\objednavac_MarkupCompile.lref
+D:\visual studio\objednavac\objednavac\obj\Debug\MainWindow.baml
+D:\visual studio\objednavac\objednavac\obj\Debug\objednavac.g.resources
+D:\visual studio\objednavac\objednavac\obj\Debug\objednavac.Properties.Resources.resources
+D:\visual studio\objednavac\objednavac\obj\Debug\objednavac.csproj.GenerateResource.Cache
+D:\visual studio\objednavac\objednavac\obj\Debug\objednavac.csproj.CoreCompileInputs.cache
+D:\visual studio\objednavac\objednavac\obj\Debug\objednavac.exe
+D:\visual studio\objednavac\objednavac\obj\Debug\objednavac.pdb
+D:\visual studio\objednavac\objednavac\obj\Debug\LoginPage.g.cs
+D:\visual studio\objednavac\objednavac\obj\Debug\LoginPage.baml

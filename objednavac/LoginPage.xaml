@@ -1,0 +1,18 @@
+﻿<Page x:Class="objednavac.LoginPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:objednavac"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	  Background="White"
+      Title="LoginPage" Height="676.887" Width="1097.461">
+	<Grid>
+		<TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="494,213,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+		<PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Margin="494,241,0,0" VerticalAlignment="Top" Width="120"/>
+		<Label x:Name="label" Content="Email" HorizontalAlignment="Left" Margin="443,213,0,0" VerticalAlignment="Top"/>
+		<Label x:Name="label2" Content="Heslo" HorizontalAlignment="Left" Margin="443,233,0,0" VerticalAlignment="Top"/>
+		<Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="445,264,0,0" VerticalAlignment="Top" Width="169" Click="button_Click"/>
+	</Grid>
+</Page>
