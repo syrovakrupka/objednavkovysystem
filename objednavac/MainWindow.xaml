@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="676.887" Width="1097.461">
 	<Grid>
-		<Frame Content="Frame" Source="LoginPage.xaml" HorizontalAlignment="Left" Height="400" VerticalAlignment="Top" Width="550"/>
+		<Frame Content="Frame" Source="LoginPage.xaml" HorizontalAlignment="Left" Height="646" VerticalAlignment="Top" Width="1089"/>
 
 	</Grid>
 </Window>

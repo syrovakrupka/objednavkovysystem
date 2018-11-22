@@ -16,16 +16,13 @@ using System.Windows.Shapes;
 namespace objednavac
 {
 	/// <summary>
-	/// Interakční logika pro MainWindow.xaml
+	/// Interaction logic for MainPage.xaml
 	/// </summary>
-	public partial class MainWindow:Window
+	public partial class MainPage : Page
 	{
-		public MainWindow()
+		public MainPage()
 		{
 			InitializeComponent();
-			
-			
 		}
-
 	}
 }

@@ -20,15 +20,20 @@ namespace objednavac
 	/// </summary>
 	public partial class LoginPage:Page
 	{
+		public APICaller apicaller { get; set; }
 
 		public LoginPage()
 		{
 			InitializeComponent();
+			apicaller = new APICaller();
 
 		}
 
 		private void button_Click(object sender, RoutedEventArgs e)
 		{
+			//var nav = NavigationService.GetNavigationService(this);
+			//nav.Navigate();
+			apicaller.LoginUser("babiš je slepice", "eslo");
 
 		}
 	}

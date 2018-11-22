@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace objednavac
 {
-	class APIHelper
+	public class UserSession
 	{
+		public int UserId { get; set; }
+		public string SessionKey { get; set; }
 	}
 }
